@@ -17,11 +17,11 @@ In this lab, you will build a Tic-Tac-Toe game incorporating the web technologie
 - Display an empty tic-tac-toe board when the page is initially displayed.
 - A player can click on the nine cells to make a move.
 - Every click will alternate between marking an `X` and `O`.
-- The cell cannot be played again once occupied with an `X` or `O`.
-- Provide a `Reset Game` button that will clear the contents of the board.
 - Display whose turn it is (X or O).
+- The cell cannot be played again once occupied with an `X` or `O`.
 - Provide win logic and display a winning message.
 - Provide logic for a cat's game (tie), also displaying a message.
+- Provide a `Reset Game` button that will clear the contents of the board.
 
 ## Items of note
 
