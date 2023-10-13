@@ -1,4 +1,4 @@
-# [tktk Module Name] - Release Notes
+# Tic-Tac-Toe Lab - Release Notes
 
 ![Hero image](../assets/tktkhero-secondary.png)
 
@@ -10,12 +10,20 @@ This release modularizes the legacy [tktk previous lab name] lab and provides so
 
 **Additions**
 
-
+- Added HTML/CSS starter code
 
 **Changes**
 
-
+- Simplify step naming convention.
+- Provide more details at each step to make this lab more widely accessible.
+- Update content to be style guide compliant.
+- Update setup materials to use VS Code.
+- Update assets throughout.
+- Move the following bonuses to the minimum requirements:
+  - Displaying whose turn it is.
+  - Win logic/displaying a winning message.
+  - Tie logic/displaying a tie message.
 
 **Removals**
 
-
+- Remove GitHub setup.
