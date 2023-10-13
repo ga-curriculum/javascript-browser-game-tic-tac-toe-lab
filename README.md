@@ -1,16 +1,23 @@
-# [tktk Module Name]
+# Tic-Tac-Toe Lab
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Introduction
 
-tktk Introduce the lab. What will the students build in this lab?
+In this lab students build a Tic-Tac-Toe game that incorporates the technologies and practices they've learned so far:
+
+- HTML
+- CSS
+- JavaScript
+- DOM manipulation
 
 ## Lab content
 
 - [Setup](./setup/README.md)
-- [Lab exercise](./exercise/README.md)
-- [tktk Starter code remove if no starter](#tktk-external-repo-link)
+- [Lab Exercise - Intro](./exercise/intro.md)
+- [Lab Exercise - Steps 1, 2, and 3](./exercise/steps-1-2-and-3.md)
+- [Lab Exercise - Steps 4 and 5](./exercise/steps-4-and-5.md)
+- [Lab Exercise - Steps 6 and 7](./exercise/steps-6-and-7.md)
 - [tktk Solution code](#tktk-external-repo-link)
 
 ## Time to complete

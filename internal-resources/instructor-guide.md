@@ -1,4 +1,4 @@
-# [tktk Module Name] - Instructor Guide
+# Tic-Tac-Toe Lab - Instructor Guide
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

@@ -1,4 +1,4 @@
-# [tktk Module Name] - Release Notes
+# Tic-Tac-Toe Lab - Release Notes
 
 ![Hero image](../assets/tktkhero-secondary.png)
 
