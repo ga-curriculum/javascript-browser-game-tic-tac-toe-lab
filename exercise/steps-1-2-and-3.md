@@ -38,9 +38,9 @@ b. Call this `init` function when the app loads.
 
    > 🚨 Add a `console.log()` as a confirmation check inside this function. This helps to ensure you're calling the function you just created correctly!
 
-c. Set the `board` variable to an array containing nine `0`s to represent empty squares.
+c. Set the `board` variable to an array containing nine `0`s representing empty squares.
 
-   > 💡 The nine elements in the `board` array will correspond to a square on the board
+   > 💡 The nine elements in the `board` array will correspond to a square on the board.
    > Index 0 (`board[0]`) will represent the top-left square.
    > Index 1 (`board[1]`) will represent the top-middle square.
    > Index 2 (`board[2]`) will represent the top-right square.
@@ -50,19 +50,18 @@ c. Set the `board` variable to an array containing nine `0`s to represent empty 
 
 d. Set the `turn` to `1` - which will represent player X.
 
-   > 💡 Player O will be represented by `-1`, which will allow us to change the turn by multiplying `turn` by `-1`. This will flip `1` to `-1` and vice-versa.
+   > 💡 Player O will be represented by `-1`, allowing us to change the turn by multiplying `turn` by `-1`. This will flip `1` to `-1` and vice-versa.
 
 e. Set the `winner` to `false`.
 
-   > 💡 A value of `false` in `winner` means that there is no winner yet.
+   > 💡 A `false` value in `winner` means that there is no winner yet.
    > A value of `true` in `winner` will mean that a player has won. 
    >
-   > Once `winner` is set to `true`, we can determine which player won by whose turn it was at the time the winning move was played.
-
+   > Once `winner` is set to `true`, we can determine which player won by whose turn it was when the winning move was played.
 
 f. Set `tie` to `false`.
 
-   > 💡 A value of `true` in `tie` will mean that the board array contains no more `0`s, and will be used to render a tie message if `winner` is still `false` by the time all squares are played.
+   > 💡 A `true` value in `tie` will mean that the board array contains no more `0`s and will be used to render a tie message if `winner` is still `false` by the time all squares are played.
 
 g. Call a function named `render` at the end of the `init` function.
 

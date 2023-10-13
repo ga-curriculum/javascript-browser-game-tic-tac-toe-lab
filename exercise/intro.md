@@ -17,7 +17,7 @@ In this lab, you will build a Tic-Tac-Toe game incorporating the web technologie
 - Display an empty tic-tac-toe board when the page is initially displayed.
 - A player can click on the nine cells to make a move.
 - Every click will alternate between marking an `X` and `O`.
-- Once occupied with an `X` or `O`, the cell cannot be played again.
+- The cell cannot be played again once occupied with an `X` or `O`.
 - Provide a `Reset Game` button that will clear the contents of the board.
 - Display whose turn it is (X or O).
 - Provide win logic and display a winning message.
@@ -27,9 +27,9 @@ In this lab, you will build a Tic-Tac-Toe game incorporating the web technologie
 
 Think about the below ideas as you're building this lab. Decisions have been made for you in the pseudocode that you should pay attention to because they're important notes for your future work:
 
-- Using `id` and/or `class` attributes will help you target elements for styling and wiring up your click event listeners. These have already been added for you in this lab!
-- Programs, including games, are frequently focused on manipulating data and displaying that data to a user. Decide on the data structures held in variables you will use to maintain the game's *state* (it's current data or status).
-- Note that the values you use to represent your game state don't necessarily have to match what you want to display to the user. For example, just because you want to display X and O doesn’t mean that you have to use those letters in your data structure. In the pseudocode we've chosen to use 1 to represent player X and -1 to represent player O.
+- Using `id`/`class` attributes will help you target elements for styling and wiring up your click event listeners. These have already been added for you in this lab!
+- Programs, including games, frequently focus on manipulating and displaying that data to a user. Decide on the data structures held in variables you will use to maintain the game's *state* (its current data or status).
+- Note that the values you use to represent your game state don't necessarily have to match what you want to display to the user. For example, just because you want to display X and O doesn't mean that you have to use those letters in your data structure. In the pseudocode, we've used 1 to represent player X and -1 to represent player O.
 - Lots of little functions with small jobs help accomplish big things!
 
 ## Pseudocode
@@ -55,8 +55,8 @@ Well-written pseudocode should be easily translated into actual code. The best w
 7) Create Reset functionality.
 ```
 
-Since most web apps are event-driven by nature. Coding an event-driven program generally requires that we set up the application when it loads (steps 1 - 5) and wait for the user to interact with the app (steps 6 & 7).
+Most web apps are event-driven by nature. Coding an event-driven program generally requires setting up the application when it loads (steps 1 - 5) and waiting for the user to interact with the app (steps 6 & 7).
 
 Next, we can start expanding on these steps with detailed pseudocode.
 
-The remainder of this exercise walks through those steps. Follow along from start to finish and you'll have a complete game of Tic-Tac-Toe that meets the minimum requirements!
+The remainder of this exercise walks through those steps. Follow along from start to finish, and you'll have a complete game of Tic-Tac-Toe that meets the minimum requirements!
