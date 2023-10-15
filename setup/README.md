@@ -70,7 +70,7 @@ There is some starter code associated with this lab. First the HTML for your `in
 
 Take a moment to review this starter HTML. Specifically take note of these elements that will be important to the logic of this game:
 
-- There is an `<h2>` element provided where you can display messages to the user. It an `id` of `"message"`. 
+- There is an `<h2>` element provided where you can display messages to the user. It has an `id` of `"message"`. 
 - A game board has also been created inside of the `<section>` element. It has a `"board"` class.
 - The game board is made up of nine `<div>` elements. These elements all share the same class: `sqr`, and also have unique ids ranging from `0` to `8`.
   > 🧠 Think about why these might be numbered starting from 0 instead of 1. What data type have we used that starts from 0 instead of 1? This will come into play later.
