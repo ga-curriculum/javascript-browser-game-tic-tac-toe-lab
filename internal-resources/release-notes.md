@@ -1,6 +1,4 @@
-# Tic-Tac-Toe Lab - Release Notes
-
-![Hero image](../assets/tktkhero-secondary.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Release Notes](../assets/tktkhero-secondary.png)
 
 ## Version 1.0 - Updates from legacy content
 
@@ -15,6 +13,7 @@ This release modularizes the legacy [tktk previous lab name] lab and provides so
 **Changes**
 
 - Simplify step naming convention.
+- Simplify turn/win calculation.
 - Provide more details at each step to make this lab more widely accessible.
 - Update content to be style guide compliant.
 - Update setup materials to use VS Code.

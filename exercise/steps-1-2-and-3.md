@@ -1,6 +1,4 @@
-# Tic-Tac-Toe Lab - Lab Exercise Steps 1, 2, and 3
-
-![Hero image](./assets/hero.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Exercise Steps 1, 2, and 3](./assets/hero.png)
 
 ## Step 1
 
@@ -34,11 +32,11 @@ b. In a constant called `messageEl`, store the element that displays the game's 
 
 a. Create a function called `init`.
 
-b. Call this `init` function when the app loads.
+b. Call the `init` function when the app loads.
 
    > 🚨 Add a `console.log()` as a confirmation check inside this function. This helps to ensure you're calling the function you just created correctly!
 
-c. Set the `board` variable to an array containing nine `0`s representing empty squares.
+c. Set the `board` variable to an array containing nine empty strings (`''`) representing empty squares.
 
    > 💡 The nine elements in the `board` array will correspond to a square on the board.
    > Index 0 (`board[0]`) will represent the top-left square.
@@ -48,9 +46,9 @@ c. Set the `board` variable to an array containing nine `0`s representing empty 
    > So on, continuing through the entire board until…
    > Index 8 (`board[8]`) will represent the bottom-right square.
 
-d. Set the `turn` to `1` - which will represent player X.
+d. Set the `turn` to `X` - this will represent player X.
 
-   > 💡 Player O will be represented by `-1`, allowing us to change the turn by multiplying `turn` by `-1`. This will flip `1` to `-1` and vice-versa.
+   > 💡 Player O will be represented by `O`.
 
 e. Set the `winner` to `false`.
 
@@ -61,8 +59,8 @@ e. Set the `winner` to `false`.
 
 f. Set `tie` to `false`.
 
-   > 💡 A `true` value in `tie` will mean that the board array contains no more `0`s and will be used to render a tie message if `winner` is still `false` by the time all squares are played.
+   > 💡 A `true` value in `tie` will mean that the board array contains no more empty strings (`''`) and will be used to render a tie message if `winner` is still `false` by the time all squares are played.
 
-g. Call a function named `render` at the end of the `init` function.
+g. Call a function named `render()` at the end of the `init()` function.
 
    > 🚨 This will throw an error until you complete step 4a!

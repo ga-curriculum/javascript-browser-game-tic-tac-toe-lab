@@ -1,6 +1,4 @@
-# Tic-Tac-Toe Lab - Setup
-
-![Hero image](./assets/hero.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Setup](./assets/hero.png)
 
 ## Setup 
 

@@ -1,6 +1,4 @@
-# Tic-Tac-Toe Lab - Lab Exercise Intro
-
-![Hero image](./assets/hero.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Exercise Intro](./assets/hero.png)
 
 ## Introduction
 
@@ -12,7 +10,7 @@ In this lab, you will build a Tic-Tac-Toe game incorporating the web technologie
 - JavaScript
 - DOM Manipulation
 
-## Minimum Requirements
+## Minimum requirements
 
 - Display an empty tic-tac-toe board when the page is initially displayed.
 - A player can click on the nine cells to make a move.
@@ -29,7 +27,6 @@ Think about the below ideas as you're building this lab. Decisions have been mad
 
 - Using `id`/`class` attributes will help you target elements for styling and wiring up your click event listeners. These have already been added for you in this lab!
 - Programs, including games, frequently focus on manipulating and displaying that data to a user. Decide on the data structures held in variables you will use to maintain the game's *state* (its current data or status).
-- Note that the values you use to represent your game state don't necessarily have to match what you want to display to the user. For example, just because you want to display X and O doesn't mean that you have to use those letters in your data structure. In the pseudocode, we've used 1 to represent player X and -1 to represent player O.
 - Lots of little functions with small jobs help accomplish big things!
 
 ## Pseudocode

@@ -1,8 +1,6 @@
-# Tic-Tac-Toe Lab
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab](./assets/tktkhero-main.png)
 
-![Hero image](./assets/tktkhero-main.png)
-
-## Introduction
+## About
 
 In this lab students build a Tic-Tac-Toe game that incorporates the technologies and practices they've learned so far:
 
@@ -11,22 +9,29 @@ In this lab students build a Tic-Tac-Toe game that incorporates the technologies
 - JavaScript
 - DOM manipulation
 
-## Lab content
+## Prerequisites
+
+tktk What module is a prerequisite for this lab?
+
+## Time to complete
+
+tktk Estimated time to complete core lab exercise: 
+
+## Content
 
 - [Setup](./setup/README.md)
 - [Lab Exercise - Intro](./exercise/intro.md)
 - [Lab Exercise - Steps 1, 2, and 3](./exercise/steps-1-2-and-3.md)
 - [Lab Exercise - Steps 4 and 5](./exercise/steps-4-and-5.md)
 - [Lab Exercise - Steps 6 and 7](./exercise/steps-6-and-7.md)
-- [tktk Solution code](#tktk-external-repo-link)
 
-## Time to complete
-
-tktk Estimated time to complete core lab exercise: 
-
-## Additional content 
+## Level Up content
 
 🚀 [Level Up](./level-up/README.md)
+
+## Solution code
+
+🏁 [JavaScript Browser Game - Tic-Tac-Toe Lab - Solution Code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution-code)
 
 ## Internal resources
 
