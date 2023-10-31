@@ -80,8 +80,7 @@ After you've reviewed that, add this CSS into your `css/style.css` file:
 body {
   background-color: gainsboro;
   /* Use a system font, if none are available use an available sans-sarif */
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: system-ui, sans-serif;
   margin: 0;
 }
 
