@@ -21,9 +21,9 @@ tktk Estimated time to complete core lab exercise:
 
 - [Setup](./setup/README.md)
 - [Lab Exercise - Intro](./exercise/intro.md)
-- [Lab Exercise - Steps 1, 2, and 3](./exercise/steps-1-2-and-3.md)
-- [Lab Exercise - Steps 4 and 5](./exercise/steps-4-and-5.md)
-- [Lab Exercise - Steps 6 and 7](./exercise/steps-6-and-7.md)
+- [Lab Exercise - Steps One, Two, and Three](./exercise/steps-one-two-and-three.md)
+- [Lab Exercise - Steps Four and Five](./exercise/steps-four-and-five.md)
+- [Lab Exercise - Steps Six and Seven](./exercise/steps-six-and-seven.md)
 
 ## Level Up content
 

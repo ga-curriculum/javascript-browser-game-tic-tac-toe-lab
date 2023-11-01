@@ -1,4 +1,4 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Exercise Steps 6 and 7](./assets/hero.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Exercise Steps Six and Seven](./assets/hero.png)
 
 ## Step 6 
 
