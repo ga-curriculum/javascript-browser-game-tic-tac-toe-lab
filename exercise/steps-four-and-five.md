@@ -26,16 +26,13 @@ e. In `updateMessage`, render a message based on the current game state:
 
 f. Invoke both the `updateBoard` and the `updateMessage` functions inside your `render` function. 
 
-   > 🧠 After completing all of step 4, you should be able to manually change the values held in the `board` array in the `init()` function and see the style of the corresponding square change on your page.
-   > 
-   > For example, if you change the board array from this:
-   > `board = ['', '', '', '', '', '', '', '', '']`
-   >
-   > to: `board = ['X', 'O', '', '', '', '', '', '', '']`
-   >
-   > You should see an X in the top left position of the board and an O in the top middle position of the board. Do not continue unless you have confirmed that is the case!
+After completing all of step 4, you should be able to manually change the values held in the `board` array in the `init()` function and see the style of the corresponding square change on your page.
 
-tktk Hunter, can you build a diagram for this?
+For example, when the board array is a collection of empty strings, you should see something like this:
+![Empty board](./assets/empty-board.png)
+
+If the board holds an X and O in the top left and top middle positions, you should see something like this:
+![Active board](./assets/active-board.png)
 
 ## Step 5 
 

@@ -1,4 +1,4 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab](./assets/tktkhero-main.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab](./assets/hero.png)
 
 ## About
 
