@@ -1,4 +1,4 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Instructor Guide](../assets/tktkhero-secondary.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Instructor Guide](../assets/instructor-guide.png)
 
 ***Nothing here yet***
 
