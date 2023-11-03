@@ -78,7 +78,7 @@ b. Determine if a player has won using one of the two options below. The first o
 
        - If those three conditions are all true, then someone has won. Set `winner` to `true`.
 
-tktk Hunter, can you build a diagram for this to make the above idea more clear?
+![Win condition logic](./assets/win-condition.png)
 
 c. In the `handleClick` function, call the `checkForWinner` function immediately after calling the `placePiece` function.
 
