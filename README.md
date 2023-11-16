@@ -11,19 +11,24 @@ In this lab students build a Tic-Tac-Toe game that incorporates the technologies
 
 ## Prerequisites
 
-tktk What module is a prerequisite for this lab?
+- Foundational knowledge of HTML, CSS, and JavaScript
+- Intro to the DOM
+- DOM Events
 
 ## Time to complete
 
-tktk Estimated time to complete core lab exercise: 
+Estimated time to complete core lab exercise: **8 hrs**
 
 ## Content
 
 - [Setup](./setup/README.md)
-- [Lab Exercise - Intro](./exercise/intro.md)
-- [Lab Exercise - Steps One, Two, and Three](./exercise/steps-one-two-and-three.md)
-- [Lab Exercise - Steps Four and Five](./exercise/steps-four-and-five.md)
-- [Lab Exercise - Steps Six and Seven](./exercise/steps-six-and-seven.md)
+
+- **Lab Exercise:**
+
+ - [Intro](./exercise/intro.md)
+ - [Steps 1 - 3](./exercise/steps-one-two-and-three.md)
+ - [Steps 4 - 5](./exercise/steps-four-and-five.md)
+ - [Steps 6 - 7](./exercise/steps-six-and-seven.md)
 
 ## Level Up content
 
