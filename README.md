@@ -2,12 +2,7 @@
 
 ## About
 
-In this lab students build a Tic-Tac-Toe game that incorporates the technologies and practices they've learned so far:
-
-- HTML
-- CSS
-- JavaScript
-- DOM manipulation
+Welcome to a defining moment in your coding journey: the Tic-Tac-Toe Lab. Recognized by students as one of the more challenging yet rewarding projects, this lab invites you to test your knowledge of HTML, CSS, JavaScript, and DOM manipulation to build a classic game from the ground up. While the challnges in this lab will stretch your thinking, the satisfaction of completing an interactive Tic-Tac-Toe game is a major milestone in your development journey. Prepare to level up your skills, enhance your problem-solving abilities, and celebrate your progress in this exciting, hands-on lab experience.
 
 ## Prerequisites
 
