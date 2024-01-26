@@ -1,4 +1,4 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab](./assets/hero.png)
+# ![JavaScript Browser Game - Tic-Tac-Toe Lab](../assets/hero.png)
 
 ## About
 
@@ -12,15 +12,15 @@ Estimated time to complete core lab exercise: **8 hrs**
 
 ## Content
 
-- [Setup](./setup/README.md)
+- [Setup](../setup/README.md)
 
 - **Lab Exercises:**
 
-  - [Intro](./exercise/intro.md)
-  - [Steps 1 - 3](./exercise/steps-one-two-and-three.md)
-  - [Steps 4 - 5](./exercise/steps-four-and-five.md)
-  - [Steps 6 - 7](./exercise/steps-six-and-seven.md)
+  - [Intro](../exercise/intro.md)
+  - [Steps 1 - 3](../exercise/steps-one-two-and-three.md)
+  - [Steps 4 - 5](../exercise/steps-four-and-five.md)
+  - [Steps 6 - 7](../exercise/steps-six-and-seven.md)
 
 ## Level Up content
 
-🚀 [Level Up](./level-up/README.md)
+🚀 [Level Up](../level-up/README.md)

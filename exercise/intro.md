@@ -35,21 +35,21 @@ Pseudocode is a detailed description of what an application must do, written in 
 
 Well-written pseudocode should be easily translated into actual code. The best way to get started is to start with the big picture of what the app needs to do:
 
-```
-1) Define the required variables used to track the state of the game.
+```javascript
+//1) Define the required variables used to track the state of the game.
 
-2) Store cached element references.
+//2) Store cached element references.
 
-3) Upon loading, the game state should be initialized, and a function should be 
-   called to render this game state.
+//3) Upon loading, the game state should be initialized, and a function should 
+//   be called to render this game state.
 
-4) The state of the game should be rendered to the user.
+//4) The state of the game should be rendered to the user.
 
-5) Define the required constants.
+//5) Define the required constants.
 
-6) Handle a player clicking a square with a `handleClick` function.
+//6) Handle a player clicking a square with a `handleClick` function.
 
-7) Create Reset functionality.
+//7) Create Reset functionality.
 ```
 
 Most web apps are event-driven by nature. Coding an event-driven program generally requires setting up the application when it loads (steps 1 - 5) and waiting for the user to interact with the app (steps 6 & 7).

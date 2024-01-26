@@ -12,7 +12,7 @@ b. Use a variable named `turn` to track whose turn it is.
 
 c. Use a variable named `winner` to represent if anyone has won yet.
 
-d. Use a variable named `tie` to represent if the game has ended in a tie. 
+d. Use a variable named `tie` to represent if the game has ended in a tie.
 
 ## Step 2
 
@@ -26,7 +26,7 @@ b. In a constant called `messageEl`, store the element that displays the game's 
 
    > 🚨 Don't forget to `console.log()` your cached element references to ensure you've grabbed the correct elements!
 
-## Step 3 
+## Step 3
 
 **Upon loading, the game state should be initialized, and a function should be called to render this game state.**
 
@@ -53,7 +53,7 @@ d. Set the `turn` to `X` - this will represent player X.
 e. Set the `winner` to `false`.
 
    > 💡 A `false` value in `winner` means that there is no winner yet.
-   > A value of `true` in `winner` will mean that a player has won. 
+   > A value of `true` in `winner` will mean that a player has won.
    >
    > Once `winner` is set to `true`, we can determine which player won by whose turn it was when the winning move was played.
 

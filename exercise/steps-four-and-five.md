@@ -4,14 +4,14 @@
 
 **The state of the game should be rendered to the user.**
 
-a. Create a function called `render`, then set it aside for now. 
+a. Create a function called `render`, then set it aside for now.
 
 b. Create a function called `updateBoard`.
 
 c. In the `updateBoard` function, loop over `board` and for each element:
 
    - Use the current index of the iteration to access the corresponding square in the `squareEls`.
-  
+
      > 📖 Check out the MDN documentation on `forEach()` to help out with this! What do you have access to in the callback function that could help with this?
 
    - Style that square however you wish, dependent on the value contained in the current cell being iterated over (`'X'`, `'O'`, or `''`). To keep it simple, start by just putting a letter in each square depending on the value of each cell.
@@ -34,13 +34,13 @@ For example, when the board array is a collection of empty strings, you should s
 If the board holds an X and O in the top left and top middle positions, you should see something like this:
 ![Active board](./assets/active-board.png)
 
-## Step 5 
+## Step 5
 
 **Define the required constants.**
 
 a. In a constant called `winningCombos`, define the eight possible winning combinations as an array of arrays.
 
-   - Want a hint of what this will look like? 
+   - Want a hint of what this will look like?
 
      > 💡 To get you started, this will look like:
      >

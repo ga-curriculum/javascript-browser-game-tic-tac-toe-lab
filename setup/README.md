@@ -1,6 +1,6 @@
 # ![JavaScript Browser Game - Tic-Tac-Toe Lab - Setup](./assets/hero.png)
 
-## Setup 
+## Setup
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 
@@ -13,7 +13,6 @@ Navigate to [GitHub](https://github.com/) and create a new repository named **ti
 - Make sure the repo is set to `public`
 - You do not need a `README.md`
 - You do not need a `.gitignore`
-
 
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
@@ -82,7 +81,7 @@ There is some starter code associated with this lab. First the HTML for your `in
 
 Take a moment to review this starter HTML. Specifically take note of these elements that will be important to the logic of this game:
 
-- There is an `<h2>` element provided where you can display messages to the user. It has an `id` of `"message"`. 
+- There is an `<h2>` element provided where you can display messages to the user. It has an `id` of `"message"`.
 - A game board has also been created inside of the `<section>` element. It has a `"board"` class.
 - The game board is made up of nine `<div>` elements. These elements all share the same class: `sqr`, and also have unique ids ranging from `0` to `8`.
   > 🧠 Think about why these might be numbered starting from 0 instead of 1. What data type have we used that starts from 0 instead of 1? This will come into play later.
@@ -116,7 +115,9 @@ body {
 While you've seen quite a bit of CSS like this before, there are a few declarations here that we should discuss:
 
 - In the `body` rule we are using `display: flex;` and `flex-wrap: wrap;`. These declarations are related to flexbox. All you need to know about them for now is that they are helping us create the layout for our board - you don't need to touch these.
-- In the `.sqr` rule there is a `width: 30%;` declaration. This sets the width of the content of each element with the `sqr` class to be 30% of the width of it's parent element. In this case all the elements with the `.sqr` class have a single parent - the `<section>` element with the `board` class. We set the width of that element to 325px above. This means that the content of each element with the `sqr` class will have a final width of about 98px. If you change the width declaration in the `.board` rule, you will notice that the width of the elements with the `sqr` class also changes.
+- In the `.sqr` rule there is a `width: 30%;` declaration. This sets the width of the content of each element with the `sqr` class to be 30% of the width of it's parent element. In this case all the elements with the `.sqr` class have a single parent - the `<section>` element with the `board` class. We set the width of that element to 325px above. This means that the content of each element with the `sqr` class will have a final width of about 98px.
+
+  If you change the width declaration in the `.board` rule, you will notice that the width of the elements with the `sqr` class also changes.
 - Their height will change as well, because there is a `aspect-ratio: 1/1;` declaration in the `.sqr` rule. This makes the elements with the `sqr` class square shaped - the element will be as tall as it is wide (giving it an aspect ratio of 1:1).
 
 Finally, there is a bit of optional boilerplate you can add to your JavaScript to make it easier to find sections inside of it. Add it to your `js/app.js` if you'd like.
