@@ -2,7 +2,9 @@
 
 ## About
 
-Welcome to a defining moment in your coding journey: the Tic-Tac-Toe Lab. Recognized by students as one of the more challenging yet rewarding projects, this lab invites you to test your knowledge of HTML, CSS, JavaScript, and DOM manipulation to build a classic game from the ground up. While the challenges in this lab will stretch your thinking, the satisfaction of completing an interactive Tic-Tac-Toe game is a major milestone in your development journey. Prepare to level up your skills, enhance your problem-solving abilities, and celebrate your progress in this exciting, hands-on lab experience.
+Welcome to a defining moment in your coding journey: the Tic-Tac-Toe Lab. Recognized by students as one of the more challenging yet rewarding projects, this lab invites you to test your knowledge of HTML, CSS, JavaScript, and DOM manipulation to build a classic game from the ground up.
+
+While the challenges in this lab will stretch your thinking, the satisfaction of completing an interactive Tic-Tac-Toe game is a major milestone in your development journey. Prepare to level up your skills, enhance your problem-solving abilities, and celebrate your progress in this exciting, hands-on lab experience.
 
 ## Prerequisites
 
@@ -31,7 +33,7 @@ Estimated time to complete core lab exercise: **8 hrs**
 
 ## Solution code
 
-🏁 [JavaScript Browser Game - Tic-Tac-Toe Lab - Solution Code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution-code)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution-code)
 
 ## Internal resources
 
