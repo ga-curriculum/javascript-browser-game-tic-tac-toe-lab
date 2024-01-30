@@ -17,7 +17,7 @@ Navigate to [GitHub](https://github.com/) and create a new repository named **ti
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/tic-tac-toe-lab.git
+git clone https://github.com/<your-username>/tic-tac-toe-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
