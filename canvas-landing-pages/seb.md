@@ -6,10 +6,6 @@ Welcome to a defining moment in your coding journey: the Tic-Tac-Toe Lab. Recogn
 
 While the challenges in this lab will stretch your thinking, the satisfaction of completing an interactive Tic-Tac-Toe game is a major milestone in your development journey. Prepare to level up your skills, enhance your problem-solving abilities, and celebrate your progress in this exciting, hands-on lab experience.
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **8 hrs**
-
 ## Content
 
 - [Setup](../setup/README.md)
