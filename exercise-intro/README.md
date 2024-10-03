@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Exercise Intro](./assets/hero-exercise-intro.png)
+<h1>
+  <span class="headline">Tic Tac Toe Lab</span>
+  <span class="subhead">Exercise Intro</span>
+</h1>
 
 ## Introduction
 

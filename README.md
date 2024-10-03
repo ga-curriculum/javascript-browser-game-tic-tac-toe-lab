@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab](./assets/hero.png)
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Tic Tac Toe Lab</span>
+</h1>
 
 ## About
 
@@ -6,38 +9,45 @@ Welcome to a defining moment in your coding journey: the Tic-Tac-Toe Lab. Recogn
 
 While the challenges in this lab will stretch your thinking, the satisfaction of completing an interactive Tic-Tac-Toe game is a major milestone in your development journey. Prepare to level up your skills, enhance your problem-solving abilities, and celebrate your progress in this exciting, hands-on lab experience.
 
-## Prerequisites
-
-- Foundational knowledge of HTML, CSS, and JavaScript
-- Intro to the DOM
-- DOM Events
-
-## Time to complete
-
-Estimated time to complete core lab exercise: **8 hrs**
-
 ## Content
 
 - [Setup](./setup/README.md)
-
-- **Lab Exercises:**
-
-  - [Intro](./exercise/intro.md)
-  - [Steps 1 - 3](./exercise/steps-one-two-and-three.md)
-  - [Steps 4 - 5](./exercise/steps-four-and-five.md)
-  - [Steps 6 - 7](./exercise/steps-six-and-seven.md)
+- [Exercise: Intro](./exercise-intro/README.md)
+- [Exercise: Part 1 - 3](./exercise-1-3/README.md)
+- [Exercise: Part 4 - 5](./exercise-4-5/README.md)
+- [Exercise: Part 6 - 7](./exercise-6-7/README.md)
 
 ## Level Up content
 
 🚀 [Level Up](./level-up/README.md)
 
-## Solution code
+## Internal
+
+### Prerequisites
+
+- Foundational knowledge of HTML, CSS, and JavaScript
+- Intro to the DOM
+- DOM Events
+
+### Time to complete
+
+Estimated time to complete core lab exercise: **8 hours**
+
+### Solution code
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution-code)
 
-## Internal resources
+### Deployed sites
+
+🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution/)
+
+🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution)
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 

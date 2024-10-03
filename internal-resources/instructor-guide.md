@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Instructor Guide](../assets/instructor-guide.png)
+<h1>
+  <span class="headline">Tic Tac Toe Lab</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 ***Nothing here yet***
 
