@@ -21,3 +21,7 @@ While the challenges in this lab will stretch your thinking, the satisfaction of
 ## Level Up content
 
 🚀 [Level Up](../level-up/README.md)
+
+## Deployed sites
+
+🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution/)
