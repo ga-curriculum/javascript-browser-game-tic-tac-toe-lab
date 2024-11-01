@@ -1,0 +1,46 @@
+amends "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl"
+
+import "microlessons.pkl" as mls
+
+// See:
+// https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/static/v2/pkl/template.pkl
+// for the full configuration options available here.
+
+// After modifying this file, use this command while in the root directory
+// for this project to create the final configuration file (config.json):
+// pkl eval -f json ./internal-resources/data/config.pkl -o %{moduleDir}/%{moduleName}.%{outputFormat}
+
+repo {
+  // This name is shown in the header nav to navigate users home
+  friendlyName = "JavaScript Browser Game - Tic Tac Toe Lab"
+  // This must match the repo name as it appears on GitHub exactly
+  name = "javascript-browser-game-tic-tac-toe-lab"
+  type = "Lab"
+}
+
+courses {
+  new {
+    name = "fallback"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.exerciseIntro
+      mls.exercise_1_3
+      mls.exercise_4_5
+      mls.exercise_6_7
+      mls.levelUp
+    }
+  }
+  new {
+    name = "seb"
+    microlessons {
+      mls.setup
+      mls.exerciseIntro
+      mls.exercise_1_3
+      mls.exercise_4_5
+      mls.exercise_6_7
+      mls.levelUp
+    }
+  }
+}
+

@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Tic Tac Toe Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
@@ -8,7 +11,7 @@ Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 cd ~/code/ga/labs
 ```
 
-Navigate to [GitHub](https://github.com/) and create a new repository named **tic-tac-toe-lab**.
+Navigate to [GitHub](https://github.com/) and create a new repository named **javascript-browser-game-tic-tac-toe-lab**.
 
 - Make sure the repo is set to `public`
 - You do not need a `README.md`
@@ -17,15 +20,15 @@ Navigate to [GitHub](https://github.com/) and create a new repository named **ti
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/tic-tac-toe-lab.git
+git clone https://github.com/<your-username>/javascript-browser-game-tic-tac-toe-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-Next, `cd` into your new cloned directory, `tic-tac-toe-lab`:
+Next, `cd` into your new cloned directory, `javascript-browser-game-tic-tac-toe-lab`:
 
 ```bash
-cd tic-tac-toe-lab
+cd javascript-browser-game-tic-tac-toe-lab
 ```
 
 Then, create a `js` directory, and a `css` directory. You can make both of these directories at the same time by adding a space between them after the `mkdir` command!

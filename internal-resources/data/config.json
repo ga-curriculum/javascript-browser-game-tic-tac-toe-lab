@@ -1,0 +1,139 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "JavaScript Browser Game - Tic Tac Toe Lab",
+    "name": "javascript-browser-game-tic-tac-toe-lab",
+    "type": "Lab"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Intro",
+          "dirName": "exercise-intro",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 1-3",
+          "dirName": "exercise-1-3",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 4-5",
+          "dirName": "exercise-4-5",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 6-7",
+          "dirName": "exercise-6-7",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Level Up",
+          "dirName": "level-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Intro",
+          "dirName": "exercise-intro",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 1-3",
+          "dirName": "exercise-1-3",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 4-5",
+          "dirName": "exercise-4-5",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Exercise Part 6-7",
+          "dirName": "exercise-6-7",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Level Up",
+          "dirName": "level-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

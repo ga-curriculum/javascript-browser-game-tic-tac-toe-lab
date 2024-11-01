@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab - Level Up](./assets/hero.png)
+<h1>
+  <span class="headline">Tic Tac Toe Lab</span>
+  <span class="subhead">Level Up</span>
+</h1>
 
 ## Level Up ideas
 

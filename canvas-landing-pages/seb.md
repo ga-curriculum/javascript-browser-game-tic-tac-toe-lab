@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Tic-Tac-Toe Lab](../assets/hero.png)
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Tic Tac Toe Lab</span>
+</h1>
 
 ## About
 
@@ -9,13 +12,10 @@ While the challenges in this lab will stretch your thinking, the satisfaction of
 ## Content
 
 - [Setup](../setup/README.md)
-
-- **Lab Exercises:**
-
-  - [Intro](../exercise/intro.md)
-  - [Steps 1 - 3](../exercise/steps-one-two-and-three.md)
-  - [Steps 4 - 5](../exercise/steps-four-and-five.md)
-  - [Steps 6 - 7](../exercise/steps-six-and-seven.md)
+- [Exercise: Intro](../exercise-intro/README.md)
+- [Exercise: Part 1 - 3](../exercise-1-3/README.md)
+- [Exercise: Part 4 - 5](../exercise-4-5/README.md)
+- [Exercise: Part 6 - 7](../exercise-6-7/README.md)
 
 ## Level Up content
 
