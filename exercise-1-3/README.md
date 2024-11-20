@@ -49,9 +49,9 @@ c. Set the `board` variable to an array containing nine empty strings (`''`) rep
    > So on, continuing through the entire board until…
    > Index 8 (`board[8]`) will represent the bottom-right square.
 
-d. Set the `turn` to `X` - this will represent player X.
+d. Set the `turn` to the uppercase string `"X"` - this will represent player X.
 
-   > 💡 Player O will be represented by `O`.
+   > 💡 Player O will be represented by uppercase `"O"`.
 
 e. Set the `winner` to `false`.
 
