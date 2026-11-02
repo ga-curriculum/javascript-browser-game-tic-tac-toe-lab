@@ -35,7 +35,7 @@ Estimated time to complete core lab exercise: **8 hours**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution/)
+🏁 [Solution code](https://github.com/ga-curriculum/javascript-browser-game-tic-tac-toe-lab-solution)
 
 ### Deployed sites
 
